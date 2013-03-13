@@ -1,0 +1,59 @@
+body
+{
+	font-family:Arial;
+	color:black;
+}
+
+a
+{
+	font-size:9px;
+	color:black;
+	text-decoration:none;
+}
+
+#sidebar
+{
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:150px;
+	height:100%;
+	padding:0 0 0 5px;
+	border-right:1px solid black;
+	z-index:500;
+}
+
+/*#sidebar #menu
+{
+	position:absolute;
+	width:100%;
+	bottom:5px;
+}
+
+#menu
+{
+
+}
+#layout-save
+{
+	position:absolute;
+	display:block;
+	left:0px;
+	bottom:0px;
+}
+#layout-cancel
+{
+	position:absolute;
+	display:block;
+	right:5px;
+	bottom:0px;
+}*/
+
+#field-settings
+{
+	position:absolute;
+	font-family:Arial;
+	font-size:10px;
+	top:-8px;
+	left:-4px;
+}
